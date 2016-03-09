@@ -1,0 +1,7 @@
+build/*
+docs/dox/*
+*a.out
+*CMakeFiles.txt
+*lex.yy.c
+instruments/
+src/cmake_install.cmake
